@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(0, 132, 255);
+    justify-content: center;
+    align-items: center;
+}
+
+.caja>h2{
+    background-color: darkorchid;
+    justify-content: center;
+    width: 100%;
+}
+
+.num>h3{
+    justify-content: center;
+
+}
